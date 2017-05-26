@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 9a6628bf2308c26438b111cd16579614
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - shootSE: {fileID: 8300000, guid: 28f8ea5dc4a26f64bbb6a536069ffba7, type: 3}
+  - arrowPrefab: {fileID: 100002, guid: 4adb184565fd2f642a610c70bc95adb0, type: 2}
+  - gaugeBar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

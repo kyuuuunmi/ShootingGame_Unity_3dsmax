@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 75d24c87f5f459a478c75786b8b407a2
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - skin: {fileID: 11400000, guid: b88a9f69197f65440801c0a280ad5198, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

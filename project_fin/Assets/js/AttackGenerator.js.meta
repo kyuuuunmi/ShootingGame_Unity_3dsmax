@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: bde93c69b3f339a4e9c176cd79d0930c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - freezePrefab: {fileID: 100000, guid: f6ff8d4e2c9291f479a19c2874e6c1ce, type: 2}
+  - spikeBallPrefab: {fileID: 100000, guid: 70ddf18365d04844bbdb36a16e656956, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

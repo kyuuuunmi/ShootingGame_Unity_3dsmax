@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: e20dc93d4bf9ef94889a1de2a4614618
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - coinSE: {fileID: 8300000, guid: 0a73fb1aab641fc4eb6d9dd9cc023862, type: 3}
+  - damageSE: {fileID: 8300000, guid: e7e4880eb12933a4f8562ee3456c7551, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

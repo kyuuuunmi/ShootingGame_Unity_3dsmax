@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 34ba9d372d139774a812f64f55199163
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - redBoxPrefab: {fileID: 100000, guid: 9414cadde1ed3fa4fa6a63fbafc00098, type: 2}
+  - blueBoxPrefab: {fileID: 100000, guid: 6a7a99bb6f4120b4a8ef8a967d9dbe6c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

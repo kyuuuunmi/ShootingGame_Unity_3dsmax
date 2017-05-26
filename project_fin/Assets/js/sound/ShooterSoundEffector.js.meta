@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 20136526cd2f2b24f887411b374ba04c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - freezeSE: {fileID: 8300000, guid: a50a8efff7ef6cf4ea1c49cb4d6dbbe1, type: 3}
+  - damageSE: {fileID: 8300000, guid: 3582aef39aaf69941aeea1efb3fa1a61, type: 3}
+  - ghostDeathSE: {fileID: 8300000, guid: f136618666be57f49a20d400101b2063, type: 3}
+  - shooterDeathSE: {fileID: 8300000, guid: 26c9676b779de644b902488a42669af9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

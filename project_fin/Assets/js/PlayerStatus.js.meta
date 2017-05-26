@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ab7f1c3e3dd61894f954e9d80dd10499
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - hpBar: {instanceID: 0}
+  - coinParticlePrefab: {fileID: 100000, guid: 3a48a08f43aee4044acc2ac04395022a, type: 2}
+  - damageParticlePrefab: {fileID: 100000, guid: e8d1767bb30e4514599f02a4a8cfca33,
+      type: 2}
+  - deadParticlePrefab: {fileID: 100000, guid: 3ff43461b6430844e81ee0277e2583a9, type: 2}
+  - skin: {fileID: 11400000, guid: b88a9f69197f65440801c0a280ad5198, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
